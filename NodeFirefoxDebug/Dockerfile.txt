@@ -1,5 +1,5 @@
-FROM selenium/node-firefox:2.53.1
-MAINTAINER Selenium <selenium-developers@googlegroups.com>
+FROM lpruth/node-firefox:2.53.1
+MAINTAINER Larry Ruth <larrypruth@gmail.com>
 
 USER root
 
